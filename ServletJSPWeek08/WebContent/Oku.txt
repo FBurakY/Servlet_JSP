@@ -1,0 +1,2 @@
+- ServletJSPWeek08 Projemizde ki amacýmýz 
+- AjaxQury , JQuery ve Servlet Entegrasyonunu yapmak .
